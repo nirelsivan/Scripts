@@ -1,2 +1,2 @@
 # IT-Israel
-bla bla - use at your own risk
+a new public repository for powershell scripts, batch etc
